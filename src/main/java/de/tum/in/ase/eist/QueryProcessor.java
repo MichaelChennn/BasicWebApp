@@ -61,10 +61,9 @@ public class QueryProcessor {
             //     }
             // }
             // String tmp = "" + result;
-            // QueryProcessor queryProcessor = new QueryProcessor();
-            // System.out.println(queryProcessor.process(s));
+            //QueryProcessor queryProcessor = new QueryProcessor();
+            //System.out.println(queryProcessor.process(s));
             // System.out.println(queryProcessor.process(s1));
-        
     }
 
 }
